@@ -50,7 +50,7 @@ MIDDLEWARE = [
 
 # Allow frontend to access API
 CORS_ALLOWED_ORIGINS = [
- "http://localhost:3000",
+https://kind-pond-04c33e210.4.azurestaticapps.net/,
 ]
 
 # JWT Settings
