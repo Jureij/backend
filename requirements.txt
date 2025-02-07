@@ -11,5 +11,5 @@ PyJWT
 sqlparse  
 tzdata 
 virtualenv
-whitenoise 
+whiteNoise 
 gunicorn
